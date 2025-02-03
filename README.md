@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raman Kishore</h1>
 <h3 align="center">👨‍💻 Tech Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio](https://ramanportfolio-web.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ramanportfolio-web.vercel.app/)
 
 - 📫 How to reach me **ramankishore08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view](https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
