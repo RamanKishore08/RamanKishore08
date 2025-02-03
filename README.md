@@ -16,9 +16,7 @@
 ---
 
 ## 🌟 About Me
-- 🎯 Passionate about building scalable web applications and creating intuitive user experiences.
-- 🛠️ Full-stack developer with expertise in front-end and back-end technologies.
-- 📊 Data analytics enthusiast with a strong background in visualization and insights.
+- 🎯 Passionate about building scalable applications and creating intuitive user experiences.
 - 💡 Always eager to learn and explore new technologies!
 
 ---
