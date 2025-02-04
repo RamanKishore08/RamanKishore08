@@ -15,15 +15,11 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
 
 ## 🌟 About Me
 - 🎯 Passionate about building scalable applications and creating intuitive user experiences.
 - 💡 Always eager to learn and explore new technologies!
 
-    </td>
     <td width="40%" valign="top" align="center" style="background: #f4f4f4; padding: 15px; border-radius: 10px;">
 
 ## 🚀 Tech Stack
@@ -44,10 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60"/>
-</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
