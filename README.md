@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 48px;">👋 Hi, I'm Raman Kishore</h1> 
-<h3 align="center" style="font-size: 32px;">🚀 Tech Enthusiast </h3>h3>  
+<h3> align="center" style="font-size: 32px;">🚀 Tech Enthusiast </h3>  
 
 <p align="center">
   <a href="https://ramanportfolio-web.vercel.app/">
