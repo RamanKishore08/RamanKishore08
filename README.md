@@ -15,31 +15,13 @@
 
 ---
 
-## 🌟 About Me
-- 🎯 Passionate about building scalable applications and creating intuitive user experiences.
-- 💡 Always eager to learn and explore new technologies!
-
----
-
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/raman-kishore08" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramankishore08&show_icons=true&theme=radical" width="90%"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramankishore08&theme=radical" width="90%"/>
-</p>
+
+## 🌟 About Me
+- 🎯 Passionate about building scalable applications and creating intuitive user experiences.
+- 💡 Always eager to learn and explore new technologies!
 
     </td>
     <td width="40%" valign="top">
@@ -66,6 +48,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/raman-kishore08" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramankishore08&show_icons=true&theme=radical" width="90%"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramankishore08&theme=radical" width="90%"/>
+</p>
 
 ---
 
