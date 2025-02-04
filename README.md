@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 48px;">👋 Hi, I'm Raman Kishore</h1> 
-<h3 align="center" style="font-size: 32px;">🚀 Tech Enthusiast </h3>  
+<h1 align="center" style="font-size: 48px;">👋 Hi, I'm Raman Kishore</h1>
+<h3 align="center" style="font-size: 32px;">🚀 Tech Enthusiast </h3>
 
 <p align="center">
   <a href="https://ramanportfolio-web.vercel.app/">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/raman-kishore08" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,34 +30,42 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70"/><br><b>HTML5</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70"/><br><b>CSS3</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/><br><b>JavaScript</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/><br><b>React</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70"/><br><b>Vue.js</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70"/><br><b>Node.js</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="70"/><br><b>Express.js</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/><br><b>MongoDB</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70"/><br><b>MySQL</b></td>
-    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70"/><br><b>Java</b></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats  
-
+    <td width="60%" valign="top">
+      
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramankishore08&show_icons=true&theme=radical" width="90%"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramankishore08&theme=radical" width="90%"/>
 </p>
+
+    </td>
+    <td width="40%" valign="top">
+
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
