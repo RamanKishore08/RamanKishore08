@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 56px;">👋 Hi, I'm Raman Kishore</h1>
-<h3 align="center" style="font-size: 36px;">🚀 Tech Enthusiast </h3>
+<h1 align="center" style="font-size: 66px;">👋 Hi, I'm Raman Kishore</h1>
+<h3 align="center" style="font-size: 46px;">🚀 Tech Enthusiast </h3>
 
 <p align="center">
   <a href="https://ramanportfolio-web.vercel.app/">
@@ -16,15 +16,17 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 50%;">
+  <div style="width: 50%; align="center" style="font-size: 46px;">
     <h2>🌟 About Me</h2>
     <ul>
       <li>🎯 Passionate about building scalable applications and creating intuitive user experiences.</li>
       <li>💡 Always eager to learn and explore new technologies!</li>
     </ul>
   </div>
-  <div style="width: 50%; padding: 20px; border: 2px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+  <div style="width: 50%; padding: 30px; border: 2px solid #ccc; border-radius: 10px; background-color: #f9f9f9; ">
     <h2>🚀 Tech Stack</h2>
+    <table>
+      <td>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
@@ -47,6 +49,8 @@
     </p>
   </div>
 </div>
+      </td>
+    </table>
 
 ---
 
