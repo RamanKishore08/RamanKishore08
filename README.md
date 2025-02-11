@@ -24,7 +24,7 @@
     </ul>
   </div>
   <div style="width: 50%; padding: 30px; border: 2px solid #ccc; border-radius: 10px; background-color: #f9f9f9; ">
-    <h2>🚀 Tech Stack</h2>
+    <h2>🚀 Tech Skills</h2>
     <table>
       <td>
     <p>
