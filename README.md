@@ -59,7 +59,7 @@
   <a href="mailto:ramankishore08@example.com" target="blank" style="margin-right: 20px;">  
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Email" width="40"/>  
   </a>  
-  <a href="https://instagram.com/ramankishore08" target="blank">  
+  <a href="https://www.instagram.com/raman_kishore_/" target="blank">  
     <img src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png" alt="Instagram" width="40"/>  
   </a>  
 </p>
