@@ -63,12 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramankishore08&show_icons=true&theme=radical" width="90%"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramankishore08&theme=radical" width="90%"/>
-</p>
 
 ---
 
