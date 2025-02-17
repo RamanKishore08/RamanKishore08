@@ -3,13 +3,13 @@
     <h3 style="font-size: 46px; margin: 10px 0;">🚀 Tech Enthusiast</h3>    
    <div style="display: flex; align-items: center; justify-content: flex-start; width: 50%; margin-top: -20px; position: relative; left: -150px; gap: 60px;">
     <a href="https://ramanportfolio-web.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&height=50" alt="Portfolio" style="height: 30px; padding: 10px;"/>
+        <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&height=50" alt="Portfolio" style="height: 24px; padding: 7px;"/>
     </a>
     <a href="mailto:ramankishore08@gmail.com">
-        <img src="https://img.shields.io/badge/📧 Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white&height=50" alt="Email" style="height: 30px; padding: 10px;"/>
+        <img src="https://img.shields.io/badge/📧 Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white&height=50" alt="Email" style="height: 24px; padding: 7px;"/>
     </a>
     <a href="https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view">
-        <img src="https://img.shields.io/badge/📄 Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white&height=50" alt="Resume" style="height: 30px; padding: 10px;"/>
+        <img src="https://img.shields.io/badge/📄 Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white&height=50" alt="Resume" style="height: 24px; padding: 7px;"/>
     </a>
 </div>
 
