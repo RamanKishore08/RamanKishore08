@@ -1,17 +1,24 @@
-<h1 align="center" style="font-size: 66px;">👋 Hi, I'm Raman Kishore</h1>
-<h3 align="center" style="font-size: 46px;">🚀 Tech Enthusiast </h3>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <h1 style="font-size: 66px; margin: 0;">👋 Hi, I'm Raman Kishore</h1>
+    <h3 style="font-size: 46px; margin: 10px 0;">🚀 Tech Enthusiast</h3>    
+   <div style="display: flex; align-items: center; justify-content: flex-start; width: 50%; margin-top: -20px; position: relative; left: -150px; gap: 60px;">
+    <a href="https://ramanportfolio-web.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&height=50" alt="Portfolio" style="height: 30px; padding: 10px;"/>
+    </a>
+    <a href="mailto:ramankishore08@gmail.com">
+        <img src="https://img.shields.io/badge/📧 Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white&height=50" alt="Email" style="height: 30px; padding: 10px;"/>
+    </a>
+    <a href="https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view">
+        <img src="https://img.shields.io/badge/📄 Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white&height=50" alt="Resume" style="height: 30px; padding: 10px;"/>
+    </a>
+</div>
 
-<p align="center">
-  <a href="https://ramanportfolio-web.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ramankishore08@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/10FzJA3sgHL1VFVLEw4j9a7jZjlN2YGjs/view">
-    <img src="https://img.shields.io/badge/📄 Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+  <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Java" width="300" style="margin-left: -200;"/>
+  </br>
+</div>
+
+
 
 ---
 
