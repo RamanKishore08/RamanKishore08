@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <h1 style="font-size: 66px; margin: 0;">👋 Hi, I'm Raman Kishore</h1>
-    <h3 style="font-size: 46px; margin: 10px 0;">🚀 Tech Enthusiast</h3>    
+    <h3 style="font-size: 46px; margin: 10px 0;">🚀 Software Developer @InnoVites</h3>    
    <div style="display: flex; align-items: center; justify-content: flex-start; width: 50%; margin-top: -20px; position: relative; left: -150px; gap: 60px;">
     <a href="https://ramanportfolio-web.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white&height=50" alt="Portfolio" style="height: 24px; padding: 7px;"/>
